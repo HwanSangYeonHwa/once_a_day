@@ -27,18 +27,24 @@ for item in table:
     new_list.append(name)
 print(new_list)
 
-register = []
-unregister = []
+with open(os.path.join(BASE_DIR, 'member.json'), 'r', encoding='utf-8') as json_file:
+    json_data = json.load(json_file)
 
-with open(os.path.join(BASE_DIR, 'member.json'), 'w+', encoding='utf-8') as json_file:
-    old_data = json.load(json_file)
+if set(new_list) != set(json_data):
+    register = []
     for n in new_list:
-        if n in old_data['members']:
-            old_data['members'].remove(n)
+        if n in json_data['members']:
+            json_data['members'].remove(n)
         else:
             register.append(n)
-    unregister = old_data['members']
-    old_data['members'] = new_list
-    #json.dump(events, json_file, ensure_ascii=False, indent='\t')
+    if json_data['members']:
+        json_data['update'][today.strftime('%Y-%m-%d')]["unregister"] = json_data['members']
+    if register:
+        json_data['update'][today.strftime('%Y-%m-%d')]["register"] = register
+    json_data['members'] = new_list
+json_data['last_update'] = today.strftime('%Y-%m-%d %H:%M:%S')
+
+with open(os.path.join(BASE_DIR, 'member.json'), 'w', encoding='utf-8') as json_file:
+    json.dump(json_data, json_file, ensure_ascii=False, indent='\t')
 
 print('finish\n')
