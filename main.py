@@ -8,11 +8,13 @@ print('get event bot start\n')
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-request = requests.request(method='get', url='https://www.kr.playblackdesert.com/ko-KR/Adventure/Guild/GuildProfile?guildName=%ed%99%98%ec%83%81%ec%97%b0%ed%99%94&region=KR')
+request = requests.request(
+    method='get', url='https://www.kr.playblackdesert.com/ko-KR/Adventure/Guild/GuildProfile?guildName=%ed%99%98%ec%83%81%ec%97%b0%ed%99%94&region=KR')
 request.encoding = None
 html = request.content
 soup = BeautifulSoup(html, 'html.parser')
-data = soup.select('#wrap > div > div.container.guild_profile > article > div.box_list_area > ul')[0]
+data = soup.select(
+    '#wrap > div > div.container.guild_profile > article > div.box_list_area > ul')[0]
 
 table = data.findAll('a')
 
@@ -37,10 +39,12 @@ if set(new_list) != set(json_data):
             json_data['members'].remove(n)
         else:
             register.append(n)
-    if json_data['members']:
-        json_data['update'][today.strftime('%Y-%m-%d')]["unregister"] = json_data['members']
-    if register:
-        json_data['update'][today.strftime('%Y-%m-%d')]["register"] = register
+    if json_data['members'] or register:
+        json_data['update'].append({
+            today.strftime('%Y-%m-%d') : {
+                "register": register,
+                "unregister": json_data['members']}
+                })
     json_data['members'] = new_list
 json_data['last_update'] = today.strftime('%Y-%m-%d %H:%M:%S')
 
