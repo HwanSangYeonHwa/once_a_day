@@ -41,7 +41,7 @@ if set(new_list) != set(json_data):
             register.append(n)
     if json_data['members'] or register:
         new_members = {}
-        for m in new_list:
+        for m in register:
             new_members.update({m:members[m]})
         json_data['update'].update({
             today.strftime('%Y-%m-%d') : {
