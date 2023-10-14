@@ -68,6 +68,7 @@
 		"돕송",
 		"분노왕",
 		"헤비구스",
+		"대덕전자",
 		"s윰윰s",
 		"모닝빵에감자샐러드",
 		"고구려민족",
@@ -86,6 +87,13 @@
 		"빳빳",
 		"잉구앙구"
 	],
-	"update": {},
-	"last_update": "2023-10-14 22:48:09"
+	"update": {
+		"2023-10-14": {
+			"register": {
+				"대덕전자": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjurE6sYG8D0Amz1JlHj3mdgnzjZpvV7dg9MKrkWjBL43kEY90WP4FUknkCor71NDzJlimw6h%2f7dBllIM83YwGWVn5ERjLkAvY6W5sfyAzMqyxvd4k1vB9xXLA5UIn3Ux6D4zEuNRifHjdyy%2fq8gVV2t8kgASbdt9OM9Ox9clE00w"
+			},
+			"unregister": []
+		}
+	},
+	"last_update": "2023-10-14 22:49:35"
 }
