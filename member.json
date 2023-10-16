@@ -65,6 +65,7 @@
 		"미캐",
 		"WINNET",
 		"BAMBINO",
+		"공격반",
 		"돕송",
 		"분노왕",
 		"헤비구스",
@@ -93,7 +94,13 @@
 				"대덕전자": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjurE6sYG8D0Amz1JlHj3mdgnzjZpvV7dg9MKrkWjBL43kEY90WP4FUknkCor71NDzJlimw6h%2f7dBllIM83YwGWVn5ERjLkAvY6W5sfyAzMqyxvd4k1vB9xXLA5UIn3Ux6D4zEuNRifHjdyy%2fq8gVV2t8kgASbdt9OM9Ox9clE00w"
 			},
 			"unregister": []
+		},
+		"2023-10-17": {
+			"register": {
+				"공격반": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZVrjZ3oeVayqgKutQBZl9Rt1nUIMOQwFXseWDlNkoGjYSvwq3cry75wAa0BCmK%2fAfwCo9Rky4wM9ESv%2fTxr%2feWDkppJM7%2bVOE%2fpk21xVaYBfKX%2bhb43d7ca30a9uGTcqSK%2bIamleWjlN%2bnyA%2fzuHF3%2bOafbCmcJ9zU2faoOjYSpu"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2023-10-16 03:05:37"
+	"last_update": "2023-10-17 03:07:43"
 }
