@@ -4,7 +4,7 @@ import requests
 import json
 import datetime
 
-print('get event bot start\n')
+print('bot start\n')
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -48,8 +48,8 @@ if set(new_list) != set(json_data):
                 "register": new_members,
                 "unregister": json_data['members']}
                 })
+        json_data['last_update'] = today.strftime('%Y-%m-%d %H:%M:%S')
     json_data['members'] = new_list
-json_data['last_update'] = today.strftime('%Y-%m-%d %H:%M:%S')
 
 with open(os.path.join(BASE_DIR, 'member.json'), 'w', encoding='utf-8') as json_file:
     json.dump(json_data, json_file, ensure_ascii=False, indent='\t')
