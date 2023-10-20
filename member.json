@@ -50,7 +50,6 @@
 		"사춘기들",
 		"환골탈태",
 		"파볼로",
-		"감뀰",
 		"카니팩스",
 		"매일피곤해",
 		"별의눈물",
@@ -107,7 +106,13 @@
 				"떡갈": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZRVCT0s7Vaawgwd0sqMzHLS0frgm1J1QJeZoKOAhJN%2fWflISfABEpHoAbYxcIqAW9DYEBaJ2helrTW0uPdvCL44x3B25UShnZSXj4L90fcvB72KKwS363WSPhhGBPdxTX6tBZUkBxv2DWLAmu53npLM%3d"
 			},
 			"unregister": []
+		},
+		"2023-10-21": {
+			"register": {},
+			"unregister": [
+				"감뀰"
+			]
 		}
 	},
-	"last_update": "2023-10-20 03:07:20"
+	"last_update": "2023-10-21 03:03:08"
 }
