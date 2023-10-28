@@ -83,7 +83,9 @@
 		"고양스",
 		"밍밍하우스",
 		"빳빳",
-		"잉구앙구"
+		"잉구앙구",
+		"나의신랑",
+		"나의신부"
 	],
 	"update": {
 		"2023-10-14": {
@@ -127,7 +129,14 @@
 			"unregister": [
 				"검사하는"
 			]
+		},
+		"2023-10-29": {
+			"register": {
+				"나의신랑": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjgPuo2s5DbTTKBGlYUHvItl2uvCdDeFbogay9XAsySgC74qxGV%2fa907giwGXzDrQlN3b9KrkXXcqJ4YuhfIu9DHobNSN1NuPkZdTnfzR5O9CyZ70%2byRMC7O3UGubdCZhQpyRKcGMoZgKGYWu3WO7PJyguRQBqj72k009nKS47oFA",
+				"나의신부": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjvfKJHO6%2fMH9suCXeLDIR3svjbeTfNEaKh2pAu05qrVZymRfcvMDSyHzOn9hBBzUkyYuMh0Ij8Ghid6HGmezN%2f%2bkc52QjxoecMVbaEiSqZ4DS7FNec%2bMf4G3cqE%2bCSPehVr85cLJYNNdrktnCahnzicPkLtEbi6PRd3SGmq4C7Qm"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2023-10-28 03:07:01"
+	"last_update": "2023-10-29 03:03:54"
 }
