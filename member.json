@@ -35,7 +35,6 @@
 		"씐나라",
 		"버릴꺼",
 		"성당자원봉사자",
-		"신교",
 		"뇨료뇽뇽",
 		"삐뽀랜드",
 		"핫토스트",
@@ -136,7 +135,13 @@
 				"나의신부": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjvfKJHO6%2fMH9suCXeLDIR3svjbeTfNEaKh2pAu05qrVZymRfcvMDSyHzOn9hBBzUkyYuMh0Ij8Ghid6HGmezN%2f%2bkc52QjxoecMVbaEiSqZ4DS7FNec%2bMf4G3cqE%2bCSPehVr85cLJYNNdrktnCahnzicPkLtEbi6PRd3SGmq4C7Qm"
 			},
 			"unregister": []
+		},
+		"2023-11-01": {
+			"register": {},
+			"unregister": [
+				"신교"
+			]
 		}
 	},
-	"last_update": "2023-10-29 03:03:54"
+	"last_update": "2023-11-01 03:07:14"
 }
