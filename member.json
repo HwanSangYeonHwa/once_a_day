@@ -58,7 +58,6 @@
 		"돈오",
 		"미캐",
 		"WINNET",
-		"BAMBINO",
 		"돕송",
 		"분노왕",
 		"헤비구스",
@@ -155,7 +154,13 @@
 			"unregister": [
 				"interscope"
 			]
+		},
+		"2023-11-16": {
+			"register": {},
+			"unregister": [
+				"BAMBINO"
+			]
 		}
 	},
-	"last_update": "2023-11-14 03:07:15"
+	"last_update": "2023-11-16 03:07:30"
 }
