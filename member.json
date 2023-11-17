@@ -43,7 +43,9 @@
 		"내올안으로빚갚으리오",
 		"속새",
 		"사춘기들",
+		"김사부",
 		"환골탈태",
+		"파볼로",
 		"카니팩스",
 		"매일피곤해",
 		"별의눈물",
@@ -160,7 +162,14 @@
 			"unregister": [
 				"BAMBINO"
 			]
+		},
+		"2023-11-18": {
+			"register": {
+				"김사부": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZQxn%2fLZdYdkHIJcW4cmA%2fRA6YeCQrhSRwAhP%2f0S66IkIQnQALeXnhy9bgquQacqFSmkq6RaWiXga5aBwRsNuBDF6iJyqnLbHrTV4l2cLoa7TXoZ2oMd4%2fe7wDbWM0XyNnpVM%2fwQegQUQ5J3tHicW%2bdRv06EB3guEr%2fyhDxoZ0d0j",
+				"파볼로": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZTv%2bX5E9Ujs7H5hrl9dyJoBmbgiZfFMG%2fDweIrnbh9rzc%2f3hLuXIlbL3yp%2fmDt2MLEYPoPBxItEZIEv4BxO6V8SuSePH2uApder8bW9la1QwjcDm3c5KqVK8eUurrLlvSDoccgMHiO9f0IP5zKuk3vPCMd%2bhn2sK2JLhGghnhDj0"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2023-11-16 03:07:30"
+	"last_update": "2023-11-18 03:07:28"
 }
