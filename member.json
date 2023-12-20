@@ -33,7 +33,6 @@
 		"카니팩스",
 		"매일피곤해",
 		"하라쿤타",
-		"낭만천사",
 		"할증",
 		"허니문베이비",
 		"체리냥",
@@ -42,7 +41,7 @@
 		"소르미어",
 		"돕송",
 		"헤비구스",
-		"대덕전자",
+		"프라우트",
 		"s윰윰s",
 		"모닝빵에감자샐러드",
 		"II여우별산호숲II",
@@ -247,7 +246,16 @@
 				"고구려",
 				"고구려민족"
 			]
+		},
+		"2023-12-21": {
+			"register": {
+				"프라우트": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjurE6sYG8D0Amz1JlHj3mdgQRDO3UEQFhgGwU4QCVm%2fGd9FZ%2bivx7uqaV32J2lnIlOQVw0KoZ0jX65gsz7VNy1Hskp7YjoUfsKYmFIOQN9LNIhEYBWM9e3CUh6gr%2bQ05zfaGX4lKwNE6GLu%2f14rpK5tNSOLsiTZYUSydfUQwf7up"
+			},
+			"unregister": [
+				"낭만천사",
+				"대덕전자"
+			]
 		}
 	},
-	"last_update": "2023-12-20 03:03:57"
+	"last_update": "2023-12-21 03:07:10"
 }
