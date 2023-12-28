@@ -54,6 +54,7 @@
 		"밍밍하우스",
 		"빳빳",
 		"해의눈물",
+		"선들바람",
 		"잉구앙구",
 		"나의신랑",
 		"나의신부"
@@ -260,7 +261,13 @@
 			"unregister": [
 				"쥬스농장"
 			]
+		},
+		"2023-12-29": {
+			"register": {
+				"선들바람": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjpY3noB6EynQz7vtVIkK1h2yYYJHUmjiDA%2fuDUJvGUCjhh6R7RJomhRKAt9Z8S1jFjBLl9W7Oe9g7MTzTiNXEVHGtu69ZjcS%2ffyW9Bs6fnhGPSk%2f85%2br2LECpnUGFrc4Jiy2Do4hnGkxifH%2byyY5RMxorWhAx2oHGLGNSGfKCWhi"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2023-12-24 03:05:24"
+	"last_update": "2023-12-29 03:07:23"
 }
