@@ -24,6 +24,7 @@
 		"데에릭로즈",
 		"H1z",
 		"버릴꺼",
+		"마괭이",
 		"뇨료뇽뇽",
 		"삐뽀랜드",
 		"핫토스트",
@@ -57,7 +58,8 @@
 		"선들바람",
 		"잉구앙구",
 		"나의신랑",
-		"나의신부"
+		"나의신부",
+		"II여우곰너구리II"
 	],
 	"update": {
 		"2023-10-14": {
@@ -267,7 +269,14 @@
 				"선들바람": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjpY3noB6EynQz7vtVIkK1h2yYYJHUmjiDA%2fuDUJvGUCjhh6R7RJomhRKAt9Z8S1jFjBLl9W7Oe9g7MTzTiNXEVHGtu69ZjcS%2ffyW9Bs6fnhGPSk%2f85%2br2LECpnUGFrc4Jiy2Do4hnGkxifH%2byyY5RMxorWhAx2oHGLGNSGfKCWhi"
 			},
 			"unregister": []
+		},
+		"2023-12-31": {
+			"register": {
+				"마괭이": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZcs0i6SeS%2fQZ5LN2F1cvXxy2L%2f%2buP4U%2bZzI5fQgJHNJYyiAE1nFLw08IEtlAgzBhI1B%2bW%2fkcxD0NEgYdrl4570%2f%2bAxuEBVm6i2lBrxbsvHu0ZZ0uZU4lv45m6LD9FnxAUPqvo607TvHy1O%2b8n4QaIKOJdQZsKc1zXoLhlYIC%2frrD",
+				"II여우곰너구리II": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjuD5MYT%2b%2fMc67tC0mPUoIByDzvZ07P66Gx%2bukik2G7w%2baZxsHjq4nxfcXrcZ1g9Gf%2bgpzRuWWt3L0xqFgzmTEsdFNVX9oq1yAKl37s7NM%2f9aaAGznTKQT49gQRllSssFSdKuYIxSozcFCkwm3s0Odf%2bOt4E9ogHJgrgrLnQDOW34"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2023-12-29 03:07:23"
+	"last_update": "2023-12-31 03:06:09"
 }
