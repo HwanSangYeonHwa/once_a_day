@@ -24,7 +24,6 @@
 		"데에릭로즈",
 		"H1z",
 		"버릴꺼",
-		"마괭이",
 		"뇨료뇽뇽",
 		"삐뽀랜드",
 		"핫토스트",
@@ -276,7 +275,13 @@
 				"II여우곰너구리II": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDjuD5MYT%2b%2fMc67tC0mPUoIByDzvZ07P66Gx%2bukik2G7w%2baZxsHjq4nxfcXrcZ1g9Gf%2bgpzRuWWt3L0xqFgzmTEsdFNVX9oq1yAKl37s7NM%2f9aaAGznTKQT49gQRllSssFSdKuYIxSozcFCkwm3s0Odf%2bOt4E9ogHJgrgrLnQDOW34"
 			},
 			"unregister": []
+		},
+		"2024-01-01": {
+			"register": {},
+			"unregister": [
+				"마괭이"
+			]
 		}
 	},
-	"last_update": "2023-12-31 03:06:09"
+	"last_update": "2024-01-01 03:06:05"
 }
