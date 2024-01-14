@@ -56,7 +56,8 @@
 		"잉구앙구",
 		"나의신랑",
 		"나의신부",
-		"II여우곰너구리II"
+		"II여우곰너구리II",
+		"은하설"
 	],
 	"update": {
 		"2023-10-14": {
@@ -291,7 +292,13 @@
 			"unregister": [
 				"킹라곰"
 			]
+		},
+		"2024-01-15": {
+			"register": {
+				"은하설": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDji3NUtouHV0XYTvJa8hiaT0wGQF7Q7%2bQCJ889XNakZE4UxfiVqOur5nMKxVyqnBwIkguNIHBbB9bwBls1Asy5uBRjh2EY1fFhsmwA%2fgU1A0CjrQ9tS4cqHXXIrT2FU39tEX5gFBi3t928bW2ygc4V9OmaGvf14e56Vp1uwHHp%2bW7"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2024-01-14 03:06:45"
+	"last_update": "2024-01-15 03:06:47"
 }
