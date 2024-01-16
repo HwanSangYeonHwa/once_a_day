@@ -10,7 +10,6 @@
 		"검은s막",
 		"도토",
 		"사이비수사대",
-		"니냐아",
 		"ollymurs",
 		"시디즈스토어",
 		"나의실수",
@@ -298,7 +297,13 @@
 				"은하설": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=tbXSK7e39Sb3U3yPi7UDji3NUtouHV0XYTvJa8hiaT0wGQF7Q7%2bQCJ889XNakZE4UxfiVqOur5nMKxVyqnBwIkguNIHBbB9bwBls1Asy5uBRjh2EY1fFhsmwA%2fgU1A0CjrQ9tS4cqHXXIrT2FU39tEX5gFBi3t928bW2ygc4V9OmaGvf14e56Vp1uwHHp%2bW7"
 			},
 			"unregister": []
+		},
+		"2024-01-17": {
+			"register": {},
+			"unregister": [
+				"니냐아"
+			]
 		}
 	},
-	"last_update": "2024-01-15 03:06:47"
+	"last_update": "2024-01-17 03:07:24"
 }
