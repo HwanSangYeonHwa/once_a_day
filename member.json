@@ -30,6 +30,7 @@
 		"김사부",
 		"카니팩스",
 		"매일피곤해",
+		"별의눈물",
 		"하라쿤타",
 		"할증",
 		"체리냥",
@@ -303,7 +304,13 @@
 			"unregister": [
 				"니냐아"
 			]
+		},
+		"2024-02-05": {
+			"register": {
+				"별의눈물": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZTY%2fixrGwPY9xqCajuwG%2fRHXhBt8dYpYXWPp%2bLkoiS3fw6j%2b9MPQ%2ff1Ilc0hQgK7Idm6IQRPazFZMv9ntVVvCRKxZpZ5p%2fOK4bFjWge32NGfpVUz6QI0yufAjLs0lbpH%2fjidfM1FG1vyxCd3w0xElU5x9MWyUlzRianpdx48adjK"
+			},
+			"unregister": []
 		}
 	},
-	"last_update": "2024-01-17 03:07:24"
+	"last_update": "2024-02-05 03:04:19"
 }
