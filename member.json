@@ -25,7 +25,6 @@
 		"뇨료뇽뇽",
 		"삐뽀랜드",
 		"핫토스트",
-		"에일가",
 		"사춘기들",
 		"김사부",
 		"카니팩스",
@@ -310,7 +309,13 @@
 				"별의눈물": "https://www.kr.playblackdesert.com/Adventure/Profile?profileTarget=coSuKY1K7C%2f877ylTj8cZTY%2fixrGwPY9xqCajuwG%2fRHXhBt8dYpYXWPp%2bLkoiS3fw6j%2b9MPQ%2ff1Ilc0hQgK7Idm6IQRPazFZMv9ntVVvCRKxZpZ5p%2fOK4bFjWge32NGfpVUz6QI0yufAjLs0lbpH%2fjidfM1FG1vyxCd3w0xElU5x9MWyUlzRianpdx48adjK"
 			},
 			"unregister": []
+		},
+		"2024-02-18": {
+			"register": {},
+			"unregister": [
+				"에일가"
+			]
 		}
 	},
-	"last_update": "2024-02-05 03:04:19"
+	"last_update": "2024-02-18 03:06:44"
 }
